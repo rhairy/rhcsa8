@@ -5,7 +5,7 @@ int main() {
 
 	if ( fgets(str, 60, stdin) != NULL ) {
 		fprintf(stdout, "STDOUT: %s", str);
-		fprintf(stdin, "STDERR: %s", str);
+		fprintf(stderr, "STDERR: %s", str);
 	}
 	return 0;
 }
