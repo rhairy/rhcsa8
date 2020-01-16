@@ -23,4 +23,8 @@
    1. Append a file to the tar archive.
    1. Delete files in a tar archive.
 1. gzip
+   1. compress a file with gzip
+   1. decompress a file with gzip
 1. bzip2
+   1. compress a file with bzip2 
+   1. decompress a file with bzip2
